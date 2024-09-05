@@ -1,0 +1,6 @@
+.env
+node_modules
+ssl
+*.pem
+.env.development
+.env.production

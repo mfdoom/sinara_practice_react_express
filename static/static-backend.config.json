@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Barcode-static-server",
+      "script": "npx",
+      "interpreter": "none",
+      "args": "node server.js"
+    }
+  ]
+}
